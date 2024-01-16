@@ -1,8 +1,9 @@
 - 👋 hi, I’m @Muitinkinyakkin
-- 👻 pentesting, cryptography, osint
-- 🌱 learning py + bash
+- 👻 Pentesting, Osint, CTI
+- 🌱  Python + Bash + Powershell
+- 
 
-- 📫
+- 📫 cow_say_lolcat@proton.me
 
 <!---
 Muitinkinyakkin/Muitinkinyakkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
